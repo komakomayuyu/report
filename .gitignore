@@ -1,0 +1,5 @@
+Makefile
+*.aux
+*.bbl
+*.blg
+*.log
